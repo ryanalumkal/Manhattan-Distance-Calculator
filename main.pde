@@ -283,33 +283,3 @@ void crowDistancePoint(int crowX, int crowY, int crowX2, int crowY2){
   
   crowDistance = (sqrt(((crowX2 - crowX) *(crowX2 - crowX))  + ((crowY2 - crowY) * (crowY2 - crowY))));
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
